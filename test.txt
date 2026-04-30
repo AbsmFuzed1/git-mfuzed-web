@@ -1,3 +1,5 @@
 test
 
 This is the first commit from Testing branch. This should stay in conflict
+
+New commit 1. This is the 1 I want to revert back to
