@@ -1,1 +1,3 @@
 test
+
+This is the first commit from Testing branch. This should stay in conflict
